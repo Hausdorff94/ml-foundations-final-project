@@ -3,4 +3,4 @@
 *[Johny Vallejo-Sánchez](https://www.linkedin.com/in/johnyvallejo/)*
 Machine Learning Engineer
 
-Final projecto for the first course of the **Specialization AI Product Management**.
+Final project for the first course of the **Specialization AI Product Management**.
